@@ -1,0 +1,11 @@
+- Thêm các icon vào home contact...
+- Tạo lớp trừu tượng 
+- Template
+- Dùng throw, try-catch
+- Mèo: mức độ rụng long, màu long
+- Nếu them vào giỏ hang mà giỏ hang đã tồn tại pet đó rồi thì chỉ cộng them số lượng pet đó
+- chuyển đọc file vào Linklist
+- Khung hình ảnh để sau
+
+
+- Chỉnh lại page, ý tưởng: pageImage & pageCart
