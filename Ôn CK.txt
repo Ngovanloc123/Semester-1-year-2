@@ -1,0 +1,29 @@
+- CSDL: 
+	+ Tìm 1 hoặc nhiều khóa
+	+ Cho biết dạng chuẩn cao nhất,phân rã để LĐQH đạt 3NF
+
+- PT & TKGT:
+	+ Dynamic programming: 
+		* Matrix-chain
+		* Longest Common Subsequencee (LCS)
+		* 0-1 Knapsack
+	- Greedy Algorithms
+		* Activity Selection (AS)
+
+	Sorting: quicksort, heapsort --> bo BST + Hastable: 2 cau
+	Dynamic programming: 1 cau
+	Backtracking: 1 cau: cau kho
+	Greeding's algorithm: 1 cau
+	Divide and conquer: 1 cau: hen xui
+	
+
+Lịch thi:
+	14/12: CSDL
+	16/12: PT & TKGT
+	23/12: TUD
+
+	29/12: TTHCM
+	30/12: HĐH
+	31/12: OOP
+	2/1    : GT2
+	4/1    : PBL2
